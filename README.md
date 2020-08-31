@@ -4,7 +4,7 @@ Guided project for **Node Auth 1** Module.
 
 ## Prerequisites
 
-- [DB Browser for SQLite](https://sqlitebrowser.org) installed.
+- [TablePlus](https://tableplus.com) installed.
 - A rest client like [Insomnia](https://insomnia.rest/download/) or [Postman](https://www.getpostman.com/downloads/) installed.
 
 ## Project Setup
